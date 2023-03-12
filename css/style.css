@@ -2,7 +2,8 @@ body {
   font-family: Tahoma, Verdana, Arial, sans-serif;
 }
 .container {
-  width: 860px;
+  max-width: 860px;
+  padding: 20px;
   margin: 0 auto;
 }
 h1 small {
@@ -25,7 +26,9 @@ hr {
           justify-content: center;
 }
 #sponsor-image img {
-  width: 500px;
+  max-width: 500px;
+  padding-left: 30px;
+  padding-right: 30px;
   margin 20px auto;
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
