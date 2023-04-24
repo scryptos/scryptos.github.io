@@ -17,6 +17,9 @@ hr {
 #sponsor-title {
   text-align: center;
 }
+#sponsor-title p {
+  margin: 0px;
+}
 #sponsor-image {
   display: -webkit-flex;
   display:         flex;
