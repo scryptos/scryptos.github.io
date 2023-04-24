@@ -34,4 +34,7 @@ hr {
      -moz-box-sizing: border-box;
           box-sizing: border-box;
 }
-
+#sponsor-date {
+  text-align: center;
+  font-size: 10px;
+}
